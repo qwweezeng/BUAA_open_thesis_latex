@@ -1,4 +1,4 @@
-# 北京航空航天大学硕博学位论文LaTeX模板4.0.0
+# 北京航空航天大学硕博开题报告LaTeX模板
 
 从北航官方学位论文latex模板4.0.0版本修改的。原学位论文模板链接：
 https://bhpan.buaa.edu.cn/link/AA047BF1DD55A54A40A86244882B24FDF4
